@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-wtiz01.to-wp.com/sitemap.xml
